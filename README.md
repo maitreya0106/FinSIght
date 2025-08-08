@@ -27,11 +27,6 @@ A full-stack financial trends dashboard application built using the **MERN** (Mo
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/MERN-FinSight-Dashboard-using-Machine-Learning.git
-cd MERN-FinSight-Dashboard
-```
-
 ### 2. Backend Setup (Node.js + Express + MongoDB)
 
 Navigate to the server directory and install dependencies:
